@@ -1,0 +1,24 @@
+{
+  "name": "cs-client",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ConnectAi/cs-client",
+  "authors": [
+    "Ross Hadden <rosshadden@gmail.com>",
+    "Sean Clark <seanclarkg@gmail.com>"
+  ],
+  "description": "Client for interacting with CS servers",
+  "main": "cs.js",
+  "keywords": [
+    "cs",
+    "cornerstone",
+    "client"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
